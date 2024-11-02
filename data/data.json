@@ -1,0 +1,407 @@
+{
+  "version": "1",
+  "vegetables": [
+    {
+      "name": "Andijvie",
+      "description": "Andijvie is een groen bladgewas verwant met Wifloof.",
+      "health": "Andijvie zit boordevol vitamine K en bevat ook een hoge dosis vitamine A en B11. Er is ook vitamine B1, B2, E en B3 aanwezig. Er zijn ook heel wat mineralen terug te vinden in andijvie: Calcium, mangaan, zink, koper, ijzer en kalium.",
+	  "garden": "Zaaien kan tussen maart en augustus. Plant zaadjes per 10 en een 30-tal cm uit elkaar. Zorg dat er ongeveer 1 cm grond op de zaadjes ligt. Het duurt een tweetal maanden voordat je kan oogsten.",
+	  "preparation": "Andijvie zeer kort koken voor een optimale smaak.",
+      "sow": [0,0,1,1,1,1,1,1,0,0],
+      "plant": [0,0,0,0,0,0,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,1,1,1,1,1,1,1,1]
+    },
+    {
+      "name": "Artisjok",
+      "description": "Artisjok behoort tot de composietenfamile.",
+      "health": "De artisjok is bevorderend voor de spijsvertering.",
+	  "garden": "Artisjok kan je het best zaaien in maart en ze tot mei binnen in een zaaibakje planten. Vanaf mei kan je ze dan omplanten in je tuin. Rechtstreeks in je tuin zaaien kan ook vanaf mei. Plant de zaadjes per twee en houdt 1 meter ruimte tussen de planten. Tussen juni en augustus kan je oogsten.",
+	  "preparation": "Artisjok kan je koken, stoven, bakken en gebruiken als decoratie op bijvoorbeeld pizza.",
+      "sow": [0,0,1,0,0,0,0,0,0,0,0,0],
+      "plant": [0,0,0,0,1,0,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,1,1,1,0,0,0,0]
+    },
+	{
+      "name": "Aubergine",
+      "description": "De aubergine is een plant uit de nachtschadefamilie oorspronkelijk afkomstig uit Myanmar. Deze heeft een glanzende paarse kleur.",
+      "health": "Aubergine bevat vele mineralen, kalium, magnesuim en foliumzuur.",
+	  "garden": "Aubergines kan je zaaien vanaf maart tot midden april. Zaai op zo'n 1 tot 2 cm afstand van elkaar. Lichtjes afdekken door er een dun laagje zand over te strooien. Zeg de zaaibakjes goed in de zon, aubergine heeft veel warmte nodig. Zorg ook voor voldoende water.",
+	  "preparation": "Aubergine wordt meestal gegrild or rauw gegeten en is heerlijk in salades. Een bekend gerecht met aubergine is moussaka.",
+      "sow": [0,0,1,1,0,0,0,0,0,0,0,0],
+      "plant": [0,0,0,1,1,0,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,1,1,1,0,0,0]
+    },
+	{
+      "name": "Augurk",
+      "description": "De augurk is een vrucht waarvan de plant behoort tot de komkommerfamilie.",
+      "health": "Augurken bevatten zeer weinig calorieën en zitten boordevol natrium, overdrijven met augurken is dus niet aan te raden voor een te hoge bloeddruk. Augurken bevatten vitamine K.",
+	  "garden": "Je kan vanaf april zaaien in een zaaibakje binnenshuis, buiten zaaien onder bescherming (glas, ...) kan vanaf mei. Vanaf juni kan je ze gewoon in de tuin zaaien. Zaai in groepjes van zaden en verwijder de kleinste plantjes bij het kiemen. Tussen juli en augustus kan je oogsten.",
+	  "preparation": "De augurk heeft van nature weinig smaak en is het meest bekend ingelegd in een bokaal met azijn.",
+      "sow": [0,0,0,1,1,0,0,0,0,0,0,0],
+      "plant": [0,0,0,0,0,0,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,1,1,0,0,0,0]
+    },
+	{
+      "name": "Bieslook",
+      "description": "Bieslook is zoals de naam al doet vermoeden een plant uit de lookfamilie en dus verwant aan knoflook, de ui en prei.",
+      "health": "Bieslook werkt vochtafdrijvend en is bevorderlijk voor de spijsvertering en de eetlust. Bieslook is ook gunstig voor de bloedsomloop. Er is ook veel vitamine A, C en K aanwezig.",
+	  "garden": "Bieslook is een veelzijdige groente die zowel binnen als in de tuin gekweekt kan worden. Zaaien kan vanaf maart tot april in een goed bemeste grond waar het nodige zonlicht aan kan. Vanaf mei kan je omplanten in de tuin of rechtstreeks zaaien. Plaats plantjes een 20-tal cm van elkaar.",
+	  "preparation": "Bieslook is lekker bij salades in kleine stukjes gesneden, gebakken op een omelet, als versiering bij warme en koude gerechten, ...",
+      "sow": [0,0,1,1,0,0,0,0,0,0,0,0],
+      "plant": [0,0,0,0,1,0,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,1,1,1,1,0,0]
+    },
+	{
+      "name": "Bloemkool",
+      "description": "De bloemkool is een witte groente die bij het geslacht van de kool thuishoort. Deze bestaat uit ongedifferentieerde bloemknoppen. Er zijn witte, paarse oranje of groene varianten.",
+      "health": "Energetische waarde 95 kJ, Koolhydraten 3 gram, Eiwit 2 gram, Vet 0,3 gram, Vitamine C 80 mg, Vitamine B1 0,05 mg, Vitamine B2 0,07 mg, Caroteen 0,03 mg, Calcium 20 mg, Ijzer 0,5 mg",
+	  "garden": "Vroege teelt: In februari zaaien in potjes in zaaibakjes of op een overdekte locatie. De jonge plantjes worden rond half april uitgeplant. De plantjes ongeveer 60cm uit elkaar zetten. Oogsten kan rond mei/juni. Zomerteelt: Zaaien in april/mei en uitplanten in mei/juni. Oogsten in juli/augustus. Herfstteelt: Half mei- half juni zaaien in volle grond. In de zomer uitplanten. Oogsten kan in september-november. Winterteelt: Zaaien eind juni. Begin augustus planten.",
+	  "preparation": "Gepureerd, gekookt, gestoomd, gebakken.",
+      "sow": [0,1,0,1,1,0,0,0,0,0,0,0],
+      "plant": [0,0,0,1,1,1,1,1,0,0,0,0],
+	  "harvest": [0,0,0,0,1,1,1,1,1,0,1,0]
+    },
+	{
+      "name": "Boerenkool",
+      "description": "Boerenkook is een bladgewas met grote groene bladeren dat eenvoudig te kweken is.",
+      "health": "Boerenkool is een zeer gezonde groente, zoniet de gezondste. De groente is rijk aan vitaminen. Deze zit boordevol vitamine A, C en K. Daarnaast zij de vitaminen B1, B2, B3, B11, en vitamine E aanwezig. De mineralen mangaan, koper, calcium, kalium, ijzer, magnesium en fosfor zijn ook rum aanwezig. Daarnaast is boerenkool een goede bron van vezels en preteïnen.",
+	  "garden": "Tussen begin mei en begin juli kan je buiten zaaien, tussen midden juni en midden augustus kan je rechtstreeks buiten planten. Oogsten kan (afhankelijk van wanneer ge hebt gezaaid/geplant) tussen september en maart.",
+	  "preparation": "Gekookt, verwerkt in een stamppot.",
+      "sow": [0,0,0,0,1,1,1,0,0,0,0,0],
+      "plant": [0,0,0,0,0,1,1,1,0,0,0,0],
+	  "harvest": [1,1,1,0,0,0,0,0,1,1,1,1]
+    },
+	{
+      "name": "Broccoli",
+      "description": "Brocolli behoort tot de koolfamilie en is een groene groente waarvan voornamelijk de bloem wordt gegeten. De volledige groente is op zich eetbaar.",
+      "health": "Brocolli bevat een hoge concentratie vezels, calcium en vitamine C dewelke bevorderlijk zijn voor de spijsvertering, celreparatie en celbescherming.",
+	  "garden": "Broccoli kan gezaaid worden van februari tot begin juli. Reken ongeveer 4 (zomer) tot 6 (vroege voorjaar) weken voor de opkweek van de plantjes. Direct planten kan tussen april en augustus.",
+	  "preparation": "Gepureerd, gekookt, gestoomd, gebakken.",
+      "sow": [0,1,1,1,1,1,1,0,0,0,0,0],
+      "plant": [0,0,1,1,1,1,1,1,0,0,0,0],
+	  "harvest": [0,0,0,0,0,1,1,1,1,1,0,0]
+    },
+	{
+      "name": "Chinese kool",
+      "description": "Chinese kool behoort tot de kruisbloemenfamlie.",
+      "health": "Chinese kool is bevorderlijk voor het immuunsysteem. De kool zit boordevol vitamine C, K  B2, B6, B11 (foliumzuur)en A. Qua mineralen kan je er calcium en mangaan in een redelijke dosis terugvinden. Daarnaast is er nog kalium, magnesium, fosfor en ijzer aanwezig.",
+	  "garden": "Zaaien van half april tot begin augustus om te oogsten rond midden oktober tot midden november.",
+	  "preparation": "Gekookt en in combinatie met aardappelen in stammpot. Gebakken en in wokgerechten. Soep.",
+      "sow": [0,0,0,0,0,0,1,1,0,0,0,0],
+      "plant": [0,0,0,0,0,0,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,0,0,0,1,1,0]
+    },
+	{
+      "name": "Courgette",
+      "description": "De courgette is een vrucht die behoort tot de komkommerfamilie.",
+      "health": "Energetische waarde 67 kJ, Koolhydraten 4 gram, Eiwit 0,6 gram, Vet 0,1 gram, Vitamine C 17 mg, Caroteen 0,20 mg, Vitamine B1 0,05 mg, Vitamine B2 0,09 mg, Calcium 15 mg, IJzer 0,4 mg",
+	  "garden": "Onder plastic tunnels kan al eind april in de volle grond geplant worden met een plantafstand van 140 bij 80 cm. Voor de buitenteelt kan gezaaid worden in mei in potten die onder glas opgekweekt worden en dan half juni buiten worden uitgeplant. Oogsten kan ongeveer vanaf half juli. De vruchten zijn op hun best als ze ongeveer 20 cm lang zijn.",
+	  "preparation": "Gekookt of gebakken, ook mogelijk om rauw te eten. Ook heerlijk in een ovenschotel of opgevuld in de oven. De gele bloem is ook eetbaar en kan gefrituurd of opgevuld worden.",
+      "sow": [0,0,0,0,1,0,0,0,0,0,0,0],
+      "plant": [0,0,0,0,0,1,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,1,1,1,0,0,0]
+    },
+	{
+      "name": "Komkommer",
+      "description": "De komkommer is een waterachtige doch smaakvolle vrucht die meestal rauw wordt gegeten.",
+      "health": "Komkommer is gezond voor de huid. Ze bevatten silica hetgeen helpt bij het ontwikkelen van sterk en gezond bindweefsel in de spieren, ligamenten, pezen, kraakbeen en het bot. Siliciumdioxide helpt bij het vormen van een gezonde huid. Door hun vezels en voldoende water zijn ze bevorderlijk voor de nieren en bijnieren. Ze vitamine C, kalium en magnesium.",
+	  "garden": "Je kan zaaien vanaf half mei. Plant de zaadjes een 15-tal cm uit elkaar. Plantjes die voorgekweekt zijn kan je vanaf juni in de tuin plaatsen. Zorg bij warmte voor voldoende water.",
+	  "preparation": "Komkommer wordt vooral koud in salades gegeven, er kan ook soep van gemaakt worden.",
+      "sow": [0,0,0,0,1,0,0,0,0,0,0,0],
+      "plant": [0,0,0,0,1,1,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,1,1,1,0,0,0]
+    },
+	{
+      "name": "Koolraap",
+      "description": "De koolraap is een plant uit de familie van de kruisbloemenfamilie, de wortel zelf is de bol die we opeten.",
+      "health": "Koolhydraten 5 gram, Eiwit 1 gram, Vet 0,0 gram, Vitamine C 40 mg, Vitamine B1 0,03 mg, Vitamine B2 0,03 mg, Calcium 80 mg, IJzer 0,5 mg",
+	  "garden": "Je kan deze buiten zaaien in mei en juni, planten kan je in juli en augustus.",
+	  "preparation": "Koolraap kan je koken, stomen, pureren en koken.",
+      "sow": [0,0,0,0,1,1,0,0,0,0,0,0],
+      "plant": [0,0,0,0,0,0,1,1,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,0,0,0,1,1,1]
+    },
+	{
+      "name": "Pastinaak",
+      "description": "De pastinaak is een witte wortel die ondergronds groeit. De wortel heeft een wit-créme kleur en heeft een lichte anijssmaak en geur. Het is vooral een wintergroente, maar kan reeds in de herfstperiode geoogst worden.",
+      "health": "Koolhydraten 15 gram, Eiwit 1,3 gram, Vet 0,4 gram, Vitamine C 18 mg, Vitamine B1 0,08 mg, Vitamine B2 0,08 mg, Caroteen 0,02 mg, Calcium 51 mg, Ijzer 0,6 mg", 
+	  "garden": "Zaai pastinaak in de volle grond op rijen, en houd 30 cm ruimte tussen de rijen aan en 15 cm in de rij. Zaaien is mogelijk vanaf half april tot half mei. Oogsten vanaf half september tot in de winter.",
+	  "preparation": "Rauw, koken, stoven, gepureerd (puur of in combinatie met aardappelen)",
+      "sow": [0,0,0,0,1,1,0,0,0,0,0,0],
+      "plant": [0,0,0,0,0,0,1,0,0,0,0,0],
+	  "harvest": [1,1,1,0,0,0,0,0,1,1,1,1]
+    },
+	{
+      "name": "Postelein",
+      "description": "De postelein is afkomstig van India en het Midden-Oosten. Er zijn drie rassen, groenbladige en geelbladige en brede geelbladige.",
+      "health": "Postelein zit boordevol omega 3-vetzuren, vitamine C en magnesium. Het zou ook heilzaam werken bij verstopping en ontsteking van de urinewegen en werkt het koortsverlagend.", 
+	  "garden": "Postelein heeft warmte nodig. Je kan eventueel in april in bakjes binnen zaaien en buiten vanaf half mei tot eind augustus. Zaai postelein in lange rijen met 12 cm tussen elke rij. Na 1 maand kan je reeds oogsten.",
+	  "preparation": "Postelein kan je rauw in salades verwerken of kort koken als bijgerecht.",
+      "sow": [0,0,0,1,1,1,1,1,0,0,0,0],
+      "plant": [0,0,0,0,0,1,1,1,1,0,0,0],
+	  "harvest": [0,0,0,0,1,1,1,1,1,0,0,0]
+    },
+	{
+      "name": "Prei",
+      "description": "De prei is een groente uit de lookfamilie.",
+      "health": "Prei is ideaal voor soep en wordt meestal gekookt gegeten en eventueel in salades.", 
+	  "garden": "Je hebt zomer-, herst- en winterprei.<br />Om zomerprei te oogsten in juni/juli dien je deze in januari te zaaien, het uitplanten gebeurt in april.<br />De herstprei zaai je begin maart en kan je uitplanten begin juni.<br />Late herstprei kan je in april zaaien en uitplanten half juni.<br />Winterprei wordt gezaaid in april en geplant in juni/juli.<br />Let erop dat bij het uitplanten de stengen minstens een goede halve centimeter dik is.<br />Laat 15 cem tussen elke prei en 30 centimeter tussen elke rij. Elke ondergrond is geschikt, zorg er wel voor dat deze niet te vochtig is.",
+	  "preparation": "Prei is ideaal voor soep en wordt meestal gekookt gegeten en eventueel in salades.",
+      "sow": [1,0,1,1,0,0,0,0,0,0,0,0],
+      "plant": [0,0,0,0,0,1,1,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,0,0,1,1,1,1]
+    },
+	{
+      "name": "Rabarber",
+      "description": "De rabarber is een weelderige plant gekenmerkt door grote groene bladeren waarvan de rode stengels worden geconsumeerd.",
+      "health": "Rabarber kan gebruikt worden voor een laxerende werking.", 
+	  "garden": "Voorzie een vierkante meter per plant en zorg voor losse grond. Je kan rabarber het beste planten en dit van het begin van de herst tot het begin van de lente. Plant een vijftal centimeter onder de grond zodat de knop nog zichtbaar is. Goed bemesten en regelmatig van water voorzien in de zomer. Oogsten kan van april tot eind juni. De stelen zijn dan meer dan een halve meter groot en hebben een mooie rode kleur.",
+	  "preparation": "Rabarber kan rauw gegeten worden en is ook geschikt voor het maken van confituur en moes. Door zijn zure smaak wordt er meestal zoetstof toegevoegd voor het consumeren.",
+      "sow": [0,0,0,0,0,0,0,0,1,0,0,0],
+      "plant": [1,1,1,0,0,0,0,0,1,1,1,1],
+	  "harvest": [0,0,0,1,1,1,0,0,0,0,0,0]
+    },
+	{
+      "name": "Reuzenpompoen",
+      "description": "De reuzenpompoen is een grote ronde vrucht die behoort tot de komkommerfamilie. De pompoen kan qua doorsnede zelfs groter worden dan 1 meter.",
+      "health": "De pompoen bevat de vitaminen A en C. Door de aanwwezigheid van betacaroteen is pompoen gezond voor de huid en beschermt het tegen huidschade. Je kan deze daarom ook gebruiken als huidmasker. De zaden bevatten fytosterolen en zijn cholesterolverlagend. De pitten bevatten tryptofaan hetgeen bijdraagt aan een goede nachtrust en uw stemming verbetert.", 
+	  "garden": "Van april tot half mei kan u pompoen zaaien. Zaai in een speciale bak met gezeefde compostgrond met voldoende bemesting. Zaai in rijen met een 3-tal centimeter tussen elk zaadje en 3 cm tussen elke rij. De zaden kiemen op 25 graden dus zorg voor voldoende warmte. Indien u buiten wil zaaien kan u dit best doen vanaf eind mei. Je kan oogsten van september tot oktober. De pompoen is rijp als je erop klopt en je een hol geluid hoort. Mists koele bewaring kan je de pompoen nog maanden bewaren.",
+	  "preparation": "Door een gebrek aan vezels is pompoen uitermate geschikt voor soep, ook kan deze in groentengerechten verwerkt worden als aanvulling.",
+      "sow": [0,0,0,1,1,0,0,0,1,0,0,0],
+      "plant": [0,0,0,0,1,0,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,0,0,0,1,1,0]
+    },
+	{
+      "name": "Rode biet",
+      "description": "De rode biet is een harde ronde wortel die gekenmerkt wordt door zijn felrode kleur en felrode sap met zeer gezonde eigenschappen.",
+      "health": "Rode bieten zijn rijk aan magnesium, kalium, foliumzuur en vezels. Ze zitten boordevol antioxidanten. Ze zijn cholesterolverlagend en helpen tegen hart- en vaatziekten.", 
+	  "garden": "Rode bieten kunnen het best gezaaid worden tussen eind maart en eind juni. Zaai een 3-tal centimeter diep en druk goed aan. Laat er een 20-tal centimeter tussen per zaadje. Wekelijks van water voorzien. Ideale temperatuur is 15 graden. Oogsten kan zodra ze de grootte hebben van een stevige vuist.",
+	  "preparation": "Rode biet kan je stoven, koken en er wordt ook bietensap van gemaakt.",
+      "sow": [0,0,1,1,1,1,0,0,0,0,0,0],
+      "plant": [0,0,0,1,1,1,1,0,0,0,0,0],
+	  "harvest": [0,0,0,1,1,1,1,1,1,1,1,1]
+    },
+	{
+      "name": "Romanesco",
+      "description": "De romanesco heeft de vorm van een bloemkool en bestaat uit torentjes met een geelgroene kleur. Romanesco betekent oorspronkelijk broccoli van Rome.",
+      "health": "Bevat foliumzuur oftewel vitamine B-11 hetgeen zeer belangrijk is voor de ontwikkeling van de hersenen en het ruggemerg, de synthese van rode bloedcellen, celdeling (vooral bij kinderen) en de omzetting van aminozuren.", 
+	  "garden": "Van april tot begin juni kan je zaaien. Planten doe je vanaf mei tot en met juli, laat ongeveer een halve meter tussenruimte. Oogsten vanaf juli tot en met november.",
+	  "preparation": "Koken, stoven, gepureerd (puur of in combinatie met aardappelen).",
+      "sow": [0,0,0,1,1,1,0,0,0,0,0,0],
+      "plant": [0,0,0,0,1,1,1,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,1,1,1,1,1,0]
+    },
+	{
+      "name": "Selder",
+      "description": "Selder behoort tot de familie van de schermbloemigen, dezelfde als kkervel en peterselie.",
+      "health": "Indien ongekookt bevat selder een hoog calciumgehalte. Dit zorgt voor afbreking van vetten om zo vermagering te bevorderen.",
+	  "garden": "Van maart tot april kunnen we reeds zaaien in zaaibakjes. Het kiemen kan tot 4 weken duren. Buiten planten kan vanaf midden mei tot midden juni. Vanaf midden oktober tot begin november kunnen we oogsten.",
+	  "preparation": "Selder is een veelzijdige groente in de keuken en kan zowel koud als warm gegeten worden in salades, soep en mosselgerechten, in de wok, ...",
+      "sow": [0,0,1,1,0,0,0,0,0,0,0,0],
+      "plant": [0,0,0,0,1,1,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,0,0,0,1,1,0]
+    },
+	{
+      "name": "Snijboon",
+      "description": "De snijboon is een peulvrucht die tot het ras van de bonen behoort. Het is een groene platte vrucht voorzien van ronde vruchten.",
+      "health": "In bonen zitten heel wat goede stoffen zoals de minerale fosfor, calcium, kalium, magnesium, ijzer, zink en molybdeen. Ze bevatten heel wat eiwitten en vezels die goed zijn voor een vlotte werking van je darmstelsel. Bonen bevatten ook zeer weinig calorieën.",
+	  "garden": "Je kan deze reeds zaaien vanaf half april tot midden mei (vroege teelt), deze dienen eerst in potjes te kiemen alvorens ze een dag of tien later uit te planten in de tuin. Deze kunnen geoogst worden van juli tot en met augustus. De normale teelt kan vanaf mei, je zaait dan in volle grond en je kan oogsten vanaf eind juli tot en met augustus. Late oogst is ook nog mogelijk, hierbij zaai je in juni in de tuin en oogst je van augustus tot en met september.",
+	  "preparation": " Snijbonen worden gekookt of gestoomd, voor de bereiding dient de lange naad die zich in de lengte bevind te verwijderen. Er zijn ook al varianten beschikbaar zonder deze naad.",
+      "sow": [0,0,0,1,1,1,0,0,0,0,0,0],
+      "plant": [0,0,0,0,0,0,1,1,1,0,0,0],
+	  "harvest": [0,0,0,0,0,0,1,1,1,0,0,0]
+    },
+	{
+      "name": "Spinazie",
+      "description": "Spinazie is een groene bladgroente.",
+      "health": "Iedereen kent wel Popeye die spinazie eet en dan ogelooflijke spieren krijgt. Spinazie is dan ook een echte powergroente die boordevol ijzer en vitaminen zit. Het gehalte ijzer is echter niet zo hoog als lang gedacht werd, maar wel hoger als bij vele andere groenten. Verder bevat spinazie heel wat antioxidanten, vitamine E en caroteen.",
+	  "garden": "We kunnen vier teeltwijzen onderscheiden:<br /><br />Vroege teelt<br />De vroege teelt dient in zaaibakjes of onder een beschermde atmosfeer te gebeuren zoals glas. Je kan dan reeds zaaien vanaf december tot en met januari.<br />Voor deze teelt mag je ruim zaaien. Eind februari kan er dan geoogst worden.<br /><br />Herfstteelt<br />Eind juli tot half september kan je zaaien om te oogsten in oktober.<br /><br />Winterteelt<br />Zaaien in september. Je kan hiervan oogsten in november, maart en april.<br /><br />Zomerteelt<br />Zaaien kan van april tot en met augustus, oogsten kan je in oktober.",
+	  "preparation": "Spinazie kan je koken, stomen en gebruiken in gerechten zoals ovenschotels.<br />Spinazie bevat veel nitraten, het is daarom aan te raden spinazie maximum 2 dagen in de koelkast te bewaren en niet opnieuw op te warmen.",
+      "sow": [0,0,1,1,1,1,1,1,1,0,0,1],
+      "plant": [0,1,1,1,0,0,0,0,0,1,1,0],
+	  "harvest": [0,1,1,1,0,0,0,0,0,1,0,0]
+    },
+	{
+      "name": "Spruitkool",
+      "description": "Spruitkool oftewel spruitjes zijn ronde groene kooltjes. Het is een typische wintergroente. Er is ook een paarse variant.",
+      "health": "Spruiten zitten boordevol vitamine C en K. Daarnaast bevat deze nog de vitaminen A, B1, B2, B3, B6, B11 en vitamine E.",
+	  "garden": "Zaaien gebeurt het beste begin april.<br />Eerder opkweken kan ook, je zet de plantjes dan best pas rond half mei tot half juni in de tuin, laat er zo’n 60 centimeter tussen, het is belangrijk dat de grote bladeren voldoende ruimte krijgen.<br />Je kan de plantjes planten van april tot en met juni.<br />Zaaien kan van april tot en met augustus, oogsten kan je in oktober.<br />Als de spruiten ongeveer 3 centimeter dik zijn (ongeveer na een drietal maanden) kan je ze oogsten.",
+	  "preparation": "Spruiten kan je koken, stoven en gebruiken in ovenschotels.",
+      "sow": [0,1,1,0,0,0,0,0,0,0,0,0],
+      "plant": [0,0,0,1,0,0,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,1,1,1,0,0,0]
+    },
+	{
+      "name": "Tomaat",
+      "description": "De tomaat is een vrucht die behoort tot het geslacht nachtschade.",
+      "health": "Tomaten bevatten lycopeen hetgeen effectief is tegen bepaalde vormen van kanker. Daarnaast bevatten ze niacine, foliumzuur en vitamine B6 die effectief zijn tegen hart- en vaatziekten. Daarnaast zijn ze voorzien van  vitamine A en vitamine C.",	  "garden": "Je kan tomaten beginnen zaaien vanaf eind februari tot eind maart in bakjes onder glas, uitplanten doe je best vanaf eind mei.<br />Zaai mooi in rijtjes met een afstand van 3 cm tussen de rijen. Ideaal voor de ontkieming is een temperatuur van 25 graden, zaai dus best in een bakje dat je binnen bij de verwarming kan plaatsen. Zodra de plantjes een hoogte hebben van een 6-tal centimeter kan je ze buiten planten. <br />Bij voorkeur vanaf april voor de temperatuur en best onder glas of op een plaats die genoeg warmte kan bieden.Tegen julie kunnen de eerste tomaten geoogst worden, dit hangt natuurlijk af van aan aantal factoren zoals zonlicht, water, etc... Oogst tomaten als ze vrij rood zijn. Ja kan ze dan in een schaal nog laten narijpen.      <br />Tip: leg er appels en bananen bij op het proces te vernsnellen. Dit komt door de stof ethyleen die deze afscheiden.",
+      "garden": "Je kan tomaten beginnen zaaien vanaf eind februari tot eind maart in bakjes onder glas, uitplanten doe je best vanaf eind mei.      <br />Zaai mooi in rijtjes met een afstand van 3 cm tussen de rijen. Ideaal voor de ontkieming is een temperatuur van 25 graden, zaai dus best in een bakje dat je binnen bij de verwarming kan plaatsen. Zodra de plantjes een hoogte hebben van een 6-tal centimeter kan je ze buiten planten. <br />Bij voorkeur vanaf april voor de temperatuur en best onder glas of op een plaats die genoeg warmte kan bieden.Tegen julie kunnen de eerste tomaten geoogst worden, dit hangt natuurlijk af van aan aantal factoren zoals zonlicht, water, etc... Oogst tomaten als ze vrij rood zijn. Ja kan ze dan in een schaal nog laten narijpen.      <br />Tip: leg er appels en bananen bij op het proces te vernsnellen. Dit komt door de stof ethyleen die deze afscheiden.",
+      "preparation": "Tomaat heeft een zeer breed toepassingsgebied, je kan het rauw eten, er soep mee koken, het in schotels gebruiken en als decoratie. Je kan er ook puree mee maken, stomen, stoven en koken.",
+      "sow": [0,0,0,1,1,1,0,0,0,0,0,0],
+      "plant": [0,0,0,0,0,0,0,1,1,1,1,1],
+	  "harvest": [0,0,0,0,0,0,0,0,0,1,0,0]
+    },
+	{
+      "name": "Venkel",
+      "description": "Venkel is een naar anijs smakende plant. De takken en draadbladeren kunnen ook als kruiden gebruikt worden.",
+      "health": "Venkelzaad kan onder meer helpen bij darmproblemen en menstruatiestoornissen.",
+      "garden": "Je kan venkel zaaien vanaf begin april, je dit dit best in zaaibakjes die je binnen veel zonlicht kan geven. Begin mei kan je ze dan in je moestuin planten. Buiten zaaien doe je best vanaf juni.",
+	  "preparation": "Venkel kan je koken, stomen, pureren en koken, de draadachtige blaadjes zijn handig voor dressings en sauzen. Je kan zelfs venkel in kleine stukjes rauw in een salade verwerken.",
+      "sow": [0,0,0,1,1,1,0,0,0,0,0,0],
+      "plant": [0,0,0,0,1,1,0,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,1,1,1,1,0,0]
+    },
+	{
+      "name": "Witloof",
+      "description": "Witloof is een witte bladgroente die in het donker wordt gekweekt.Witloof is van nature bitter terwijl er tegenwoordig reeds soorten zijn die niet meer bitter zijn.",
+      "health": "Koolhydraten 3 gram<br />Eiwit 1 gram<br />Vet 0,1 gram<br />Vitamine C 5 mg<br />Vitamine B1 0,04 mg<br />Vitamine B2 0,03 mg<br />Calcium 20 mg<br />Ijzer 0,5 mg",
+      "garden": "Deze groente wordt tweejarig gekweekt. In jaar 1 wordt in mei gezaaid. In de herstperiode worden de wortels hiervan geoogst. Deze worden op hun beurt in de grond geplaatst om zo een witloof te vormen. Na vier weken kan je oogsten. Oogsten kan vanaf 4 weken na het planten van de wortel.",
+	  "preparation": "Rauw, koken, stoven, in een koude salade of in een warme ovenschotel. Witlloof kan een bittere smaak hebben, alhoewel de rassen tegenwoordig minder bitter zijn. Om de bitterheid te verlagen kan je van de onderkant een flink stuk afsnijden en een kruis snijden zodat de bittere stoffen sneller vrijkomen bij het bereiden.",
+      "sow": [0,0,0,0,1,0,0,0,0,0,0,0],
+      "plant": [0,0,0,0,0,0,0,0,1,1,0,0],
+	  "harvest": [0,0,0,0,0,0,1,0,0,0,1,0]
+    },
+	{
+      "name": "Wortel",
+      "description": "De wortel is een langwerpige oranje groente die familie is van de wilde peen.",
+      "health": "Wortels zijn rijk aan bètacaroteen, dat in het lichaam wordt omgezet in vitamine A.",
+      "garden": "Bij vroege teelt kunnen we reeds binnen of onder glas zaaien van februari tot en met maart. Voor de zomerteelt kunnen we zaaien vanaf april tot eind juli.De winterteelt kunnen we zaaien vanaf half april tot en met juni.<br>We laten een 25-tal cm tussen elke rij.<br>Oogsten kan ongeveer na 12-16 weken. Je kan het beste oogsten voordat er vorst optreedt!",
+	  "preparation": "Wortel is ideaal voor soep en puree- en stamppotbereidingen. Je kan wortel stoven, koken en ook gewoon rauw eten.",
+      "sow": [0,1,1,1,1,1,1,0,0,0,0,0],
+      "plant": [0,0,1,1,1,1,1,0,0,0,0,0],
+	  "harvest": [0,0,1,1,1,1,1,1,1,1,1,1]
+    },
+	{
+      "name": "Zoete aardappel",
+      "description": "De zoete aardappel wordt ook wel bataat genoemd en komt oorspronkelijk uit Zuid-Amerika. Het is geen familie van de aardappel. Het is een zoetige rode zetmeelhoudende knol. De zoete aardappel bevat de suiker raffinose en heeft een rozige kleur. Er zijn ook witte varianten.",
+      "health": "De zoete aardappel een ruime hoeveelheid vitamine A, C en B6 en deze is rijk aan mineralen als calcium, foliumzuur en kalium. Er zijn weinig vetten aanwezig alsook cholesterol. De zoete aardappel bevat ook betacaroteen ter bescherming van de huid.",
+      "garden": "Om deze te planten heb je temperaturen nodig van minstens 20 graden. Plant deze dus aan het begin van de zomer. Maak beddingen van 30cm breed en 20cm hoog. Laat 30 cm tussen de plantjes. Zorg voor voldoende water. Oogsten kan tegen het einde van de zomer.",
+	  "preparation": "De zoete aardappel is uitermate geschikt als bijgerecht, je kan deze koken of gepureerd eten. Door de oranje kleur is deze ook uitermate geschikt voor kleurrijke en speciale gerechten.",
+      "sow": [0,0,0,0,0,0,0,0,0,0,0,0],
+      "plant": [0,1,1,1,1,1,1,0,0,0,0,0],
+	  "harvest": [0,0,0,0,0,0,0,1,1,0,0,0]
+    }
+  ],
+  "minerals": [
+    {
+        "name": "Calcium",
+        "description": "Calcium is een belangrijk mineraal voor gezonde botten, spieren en een gezond zenuwstelsel. Het biedt ook bescherming tegen poliepen in de dikke darm.<br />Calcium komt vooral voor in zuivelproducten zoals melk en kaas. Terug te vinden in: Halfvolle melk, spinazie, kaas, spersiebonen, aardappelen"
+    },
+    {
+        "name": "Fosfor",
+        "description": "Fosfor zorgt voor de stevigheid aan onze botten en tanden net zoals calcium.<br />Het is ook bevorderlijk voor onze spijsvertering en de aanmaak van hormonen. Terug te vinden in: kippenpoot, haring, halfvolle melk, aardappelen, bananen"
+    },
+    {
+        "name": "Ijzer",
+        "description": "Ijzer zorgt voor het transport van zuurstof uit de longen via rode bloedcellen naar de rest van je lichaam.<br />Het is ook gunstig voor de afbraak van slechte stoffen en voor ons afweermechanisme.<br />Wanneer je langdurige tijd futloos bent kan dit duiden op een ijzertekort. Terug te vinden in: spinazie, biefstuk, kikkererwten, appelstroop, kabeljauw"
+    },
+    {
+        "name": "Koper",
+        "description": "Koper is een belangrijke stof voor de algehele werking van ons lichaam. Het bevordert de stofwisseling en is gunstig voor onze organen. Terug te vinden in: gepelde garnalen,chocolade, noten, sperziebonen, appel"
+    },
+    {
+        "name": "Kalium",
+        "description": "Kalium kan helpen bij het verlagen van de bloeddruk.<br />Het is ook belangrijk bij het op peil houden van onze vochtbalans. Terug te vinden in: groente (broccoli, aardappelen) en fruit, brood, melk, noten en vlees"
+    },
+    {
+        "name": "Jodium",
+        "description": "Deze stof wordt door onze schildklier opgenomen als bouwsteen voor de hormonen ervan.<br />Deze spelen een belangrijke rol in de groei van onze organen en het functioneren van onze cellen. Terug te vinden in: zeewier, zeewolf, volkorenbrood, zalm, cornflakes"
+    },
+    {
+        "name": "Magnesium",
+        "description": "Magnesium zorgt voor een goede werking van onze spieren en zenuwen.<br />Het ondersteunt ons immuunsysteem en zorgt voor sterke botten.<br />Ook is deze betrokken bij het regelen van de bloeddruk en onze suikerspiegel. Terug te vinden in: volkorenpasta, spinazie, pure chocolade, crackers, bananen"
+    },
+    {
+        "name": "Selenium",
+        "description": "Selenium functioneert als antioxidant. Het beschermt rode bloedcellen tegen beschadigingen. Terug te vinden in: mosselen, scholfilet, gekookte eieren, volkorenbrood, paranoten"
+    },
+    {
+        "name": "Mangaan",
+        "description": "Mangaan is belangrijk voor de stofwisseling in ons lichaam. Het zorgt voor het goede functioneren van ons zenuwstelsel en de schildklier. Terug te vinden in granen, rijst, noten, bladgroenten, fruit, vlees, vis en thee"
+    },
+    {
+        "name": "Molybdeen",
+        "description": "Molybdeen is bevorderlijk voor de afbraak en opbouw van eiwitten in ons lichaam. Terug te vinden in: peulvruchten, granen en noten, orgaanvlees, melk en eieren"
+    },
+    {
+        "name": "Zink",
+        "description": "Zink zorgt voor een goede werking van ons immuunisysteem. Het bevordert de aanmaak van nieuwe cellen en het genezen van wonden.<br />Zink zorgt ook voor de afbraak van koolhydraten. Terug te vinden in vlees, vis, volkorenbrood, peulvruchten en rijst."
+    },
+    {
+        "name": "Natrium",
+        "description": "Natrium is in bijna alle voedingsmiddelen en dranken aanwezig. Terug te vinden in zout, kaas, zuurkool"
+    },
+    {
+        "name": "Chroom",
+        "description": "Chroom zou ons cholesterolpeil verlagen. Zo speelt het een belangrijke rol bij de werking van insuline in ons lichaam. Terug te vinden in biergist, volkorenbrood, groente, rietsuikermelasse, vlees, vis en lever"
+    }
+  ],
+  "vitamins": [
+    {
+        "name": "Vitamine A",
+        "description": "Vitamine A wordt ook wel retinol genoemd.<br /> Het is een van de weinige vitamins die het lichaam zelf kan aanmaken door middel van de antioxidant beta-caroteen die in een aantal groenten terug te vinden is.<br />Vitamine A is goed voor onze huid, ons zicht, de vorming van bloedvaten en slijmvliezen en de weerstand tegen infectie.<br>Terug te vinden in boter, halvarine, margarine, vis, melkproducten en lever. Bèta-caroteen in wortels, brocolli, ..<br>Aanbevolen hoeveelheid man: 900 mcg<br>Aanbevolen hoeveelheid vrouw: 700 mcg"
+    },
+    {
+        "name": "Vitamine B1",
+        "description": "Vitamine B1 wordt ook wel thiamine genoemd.<br />Vitamine B1 zorgt voor het vrijkomen van energie door het verbrangen van koolhydraten.<br>Terug te vinden in: brood, vlees, melkproducten, aardappelen, graanproducten.<br>Aanbevolen hoeveelheid man: 1,1 mg<br>Aanbevolen hoeveelheid vrouw: 1,1 mg"
+    },
+    {
+        "name": "Vitamine B2",
+        "description": "Vitamine B2 wordt ook wel riboflavine genoemd.<br />Vitamine B2 zorgt voor gezonde haren en huid, bevordering van je spijsvertering en je zenuwstelsel en het beschermt je ogen tegen zonlicht.<br>Terug te vinden in: melkproducten, noten, eieren, groenten, fruit en vlees<br>Aanbevolen hoeveelheid man: 1,5 mg<br>Aanbevolen hoeveelheid vrouw: 1,1 mg"
+    },
+    {
+        "name": "Vitamine B5",
+        "description": "Vitamine B5 wordt ook wel pantotheenzuur genoemd.<br />Vitamine B5 is belangrijk voor herstel van weefsel en de opbouw en afbraak van koolhydraten, vetten en eiwitten en voor de vorming van bepaalde hormonen.<br>Terug te vinden in: volkorenbrood, eieren, melk, vlees, groenten (aardappel)<br>Aanbevolen hoeveelheid man: 5 mg<br>Aanbevolen hoeveelheid vrouw: 5 mg"
+    },
+    {
+        "name": "Vitamine B6",
+        "description": "Vitamine B6 wordt ook wel pyrydoxine genoemd.<br />Vitamine B6 is bevorderlijk tegen hart- en vaatziekten, de vorming van rode bloedcellen, bevorderlijk voor ons zenuwstelsel, de opbouw en afbraak van eiwitten en het opbouwen van DNA.<br>Terug te vinden in: bananen, aardappelen, bruin brood, vis, vlees, melkproducten<br>Aanbevolen hoeveelheid man: 1,5 mg<br>Aanbevolen hoeveelheid vrouw: 1,5 mg"
+    },
+    {
+        "name": "Vitamine B8",
+        "description": "Vitamine B8 wordt ook wel biotine genoemd.<br />Vitamine B8 staat in voor de productie van energie net als de ontwikkeling van onze huid en haren en voor de vorming van vetzuren.<br>Terug te vinden in: melkproducten, sojabonen, noten, eieren, lever<br>Aanbevolen hoeveelheid man: 40 mcg <br>Aanbevolen hoeveelheid vrouw: 40 mcg "
+    },
+    {
+        "name": "Vitamine B11",
+        "description": "Vitamine B11 wordt ook wel foliumzuur genoemd.<br />Deze itamine is uiterst belangrijk tijdens de zwangerschap. Het verkleint de kans op een miskraam en een aangeboren afwijking.<br />Vitamine B11 staat in voor de opbouw en afbraak van eiwitten, de opbouw van ons DNA, verkleinen van hart- en vaatziekten en het is efficiënt tegen bontontkalking.<br>Terug te vinden in: Groenten zoals spruiten en broccoli, eieren, vlees en bruin brood<br>Aanbevolen hoeveelheid man: 300 mcg<br>Aanbevolen hoeveelheid vrouw: 300 mcg"
+    },
+    {
+        "name": "Vitamine B12",
+        "description": "Vitamine B12 wordt ook wel cyanocobalamine genoemd.<br />Vitamine B12 zorgt voor de aanmaak van rode bloedcellen, is bevorderlijk voor ons zenuwstelsel, de opbouw en afbraak van eiwitten en een goede opbouw van ons DNA.<br>Terug te vinden in: vlees, vis, eieren en melk<br>Aanbevolen hoeveelheid man: 300 mcg <br>Aanbevolen hoeveelheid vrouw: 300 mcg "
+    },
+    {
+        "name": "Vitamine C",
+        "description": "Vitamine C wordt ook wel ascorbinezuur genoemd.<br />Deze vitamine is een belangrijk antioxidant. Het verhoogt de weerstand, bevordert de opname van ijzer en helpt bij het gezond houden van botten, tanden steunweefsel en bloedvaten.<br>Terug te vinden in: vlees, vis, eieren en melk<br>Aanbevolen hoeveelheid man: 75 mg<br>Aanbevolen hoeveelheid vrouw: 75 mg "
+    },
+    {
+        "name": "Vitamine D",
+        "description": "Vitamine D wordt ook wel cholecalciferol genoemd.<br />Vitamine D kan ons lichaam zelf aanmaken door middel van zonlicht, daarom dat het aangeraden wordt om in de winter soms vitamin D op te nemen via onderandere supplementen.<br />Deze vitamine zorgt voor een goede weerstand en sterke tanden en botten. Ook de opname van calcium en fosfor uit voeding wordt bevorderd.<br>Terug te vinden in: vlees, vette vis, margarine, melkproducten, eieren<br>Aanbevolen hoeveelheid man: 10 mcg<br>Aanbevolen hoeveelheid vrouw: 10 mcg"
+    },
+    {
+        "name": "Vitamine E",
+        "description": "Vitamine E wordt ook wel tocoferol genoemd.<br />Vitamine E versterkt ons afweersysteem. Deze zou ook de kans op prostaatkanker, Alzheimer, en hart- en vaatziekten te verkleinen.<br />Het wordt ook aangeraden tegen veroudering.<br>Terug te vinden in: margarine, eieren, plantaardige olie, granen, groenten en noten <br>Aanbevolen hoeveelheid man: 10 mg<br>Aanbevolen hoeveelheid vrouw: 8 mg"
+    },
+    {
+        "name": "Vitamine K",
+        "description": "vitamine K is belangrijk voor de bloedstolling en de aanmaak van botweefsel.<br />Deze vitamin wordt door ons lichaam zelf aangemaakt.<br>Terug te vinden in: groenten (spinazie, broccoli, boerenkool), fruit, eieren, melkproducten, granen en vlees.<br>Aanbevolen hoeveelheid man: 120  mcg<br>Aanbevolen hoeveelheid vrouw: 90 mc"
+    }
+  ],
+  "seasonvegetables": [
+    {
+        "name": "Zomer",
+        "description": "Juni: aardappel, andijvie, artisjok, asperge, bloemkool, broccoli, erwten, kropsla, paddestoelen"
+    },
+    {
+        "name": "Winter",
+        "description": "spruitjes, rode kool, groene kool, witte kool, prei, schorseneren, veldsla, rapen, rode biet,"    
+    },
+    {
+        "name": "Lente",
+        "description": "radijs, asperge, bloemkool, "    
+    },
+    {
+        "name": "Herfst",
+        "description": "pompoen, witloof, butternut, spruitjes"
+    }
+  ]
+}

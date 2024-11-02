@@ -1,0 +1,99 @@
+body {
+    background-color:#005f00;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+strong {
+    font-weight: bold;
+}
+
+#main-header {
+    color: #ffffff;
+    font-size: larger;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.description.invisible {
+    display: none;
+}
+
+.description.visible {
+    display: block;
+}
+
+#results h3 {
+    background-color: #fff;
+    margin: 3px 0;
+    padding: 10px 0px;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}
+
+#results .description {
+    background-color: #fff;
+    padding: 10px;
+}
+
+#content {
+    width: 320px;
+    margin: 0 auto;
+}
+
+.calendar {
+    font-size: 0.6em;
+}
+
+.calendar td {
+    border: 2px solid #005f00;
+    padding: 5px;
+}
+
+#results #minerals {
+    background-color: gray;
+    color: white;
+}
+
+#results #vitamins {    
+    background-color: cornflowerblue;
+    color: white;
+}
+
+#results #seasonvegetables {    
+    background-color: maroon;
+    color: white;
+}
+
+.add-button {
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    border: none;
+    font-weight: bold;
+    padding: 5px;
+    background-color: #C0C0C0;
+}
+
+@media only screen and (min-width :480px) {
+    #content {
+        width: 460px;
+    }
+}
+
+@media only screen and (min-width :768px) {
+    #content {
+        width: 748px;
+    }
+
+    .calendar {
+        font-size: 1em;
+    }
+}
+
+@media only screen and (min-width :960px) {
+    #content { 
+        width: 940px;
+    }
+}
